@@ -27,3 +27,5 @@ yarn-error.log*
 .vscode
 
 jspm_packages
+
+pull-request.md
